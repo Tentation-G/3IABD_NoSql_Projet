@@ -1,9 +1,9 @@
 # Mamion Miam — NoSQL & Big Data
 
 ## Répartition des taches
-Flavien  : Infrastructure, analyse catalogue produits
-Samuel   : Analyse comportement d'achat clients
-Roïssath : Analyse parrainage & entreprises
+- Flavien  : Infrastructure, analyse catalogue produits
+- Samuel   : Analyse comportement d'achat clients
+- Roïssath : Analyse parrainage & entreprises
 
 ## Prérequis
 - Docker Desktop
