@@ -1,0 +1,33 @@
+services:
+
+  mongodb:
+    image: mongo:7
+    container_name: mamionmiam_mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongo_user
+      MONGO_INITDB_ROOT_PASSWORD: mongo_pass
+      MONGO_INITDB_DATABASE: mamionmiam
+    volumes:
+      - mongo_data:/data/db
+
+  neo4j:
+    image: neo4j:5
+    container_name: mamionmiam_neo4j
+    restart: unless-stopped
+    ports:
+      - "7474:7474"   # interface web
+      - "7687:7687"   # bolt (connexion Python)
+    environment:
+      NEO4J_AUTH: neo4j/neo4j_pass # user/pass
+      NEO4J_PLUGINS: '["apoc"]'
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+
+volumes:
+  mongo_data:
+  neo4j_data:
+  neo4j_logs:
