@@ -1,4 +1,5 @@
 from neo4j import GraphDatabase
+from tabulate import tabulate
 import os
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "_out")
@@ -19,10 +20,9 @@ with driver.session() as s:
                nb_filleuls
     """).data()
 
-    print(f"\n{'Rang':<5} {'Prenom':<15} {'Nom':<20} {'Genre':<7} {'Filleuls'}")
-    print("-" * 55)
-    for i, p in enumerate(top_parrains, 1):
-        print(f"{i:<5} {p['prenom']:<15} {p['nom']:<20} {p['genre']:<7} {p['nb_filleuls']}")
+    rows = [[i, p['prenom'], p['nom'], p['genre'], p['nb_filleuls']]
+             for i, p in enumerate(top_parrains, 1)]
+    print("\n" + tabulate(rows, headers=["Rang", "Prenom", "Nom", "Genre", "Filleuls"], tablefmt="pretty"))
 
     # Filleuls du top 1
     top1 = top_parrains[0]
@@ -34,8 +34,7 @@ with driver.session() as s:
     """, id=top1["id"]).data()
 
     print(f"\nFilleuls de {top1['prenom']} {top1['nom']} ({len(filleuls)} filleuls) :")
-    print("-" * 50)
-    for f in filleuls:
-        print(f"  {f['prenom']} {f['nom']} ({f['genre']}) - {f['commune']}")
+    rows_f = [[f['prenom'], f['nom'], f['genre'], f['commune']] for f in filleuls]
+    print(tabulate(rows_f, headers=["Prenom", "Nom", "Genre", "Commune"], tablefmt="pretty"))
 
 driver.close()

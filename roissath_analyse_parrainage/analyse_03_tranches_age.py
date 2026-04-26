@@ -2,6 +2,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from pymongo import MongoClient
+from tabulate import tabulate
 from datetime import date
 import os
 
@@ -49,10 +50,8 @@ for p in parrains:
 
 mongo.close()
 
-print("\nParrains par tranche d'age :")
-print("-" * 30)
-for t in tranches:
-    print(f"  {t} : {counts[t]}")
+rows = [[t, counts[t]] for t in tranches]
+print("\n" + tabulate(rows, headers=["Tranche d'age", "Nb parrains"], tablefmt="pretty"))
 
 fig, ax = plt.subplots(figsize=(9, 5))
 bars = ax.bar(tranches, [counts[t] for t in tranches], color="#4a90d9", edgecolor="white")

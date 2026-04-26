@@ -2,6 +2,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from pymongo import MongoClient
+from tabulate import tabulate
 import os
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "_out")
@@ -31,12 +32,9 @@ pipeline = [
 top = list(db.clients.aggregate(pipeline))
 mongo.close()
 
+rows = [[i, (e.get('nom') or 'Inconnue'), e['nb_parrains']] for i, e in enumerate(top, 1)]
 print("\nTop 10 entreprises dont les employes sont le plus parrains :")
-print(f"  {'Rang':<5} {'Entreprise':<40} {'Parrains'}")
-print("  " + "-" * 55)
-for i, e in enumerate(top, 1):
-    nom = (e.get("nom") or "Inconnue")[:38]
-    print(f"  {i:<5} {nom:<40} {e['nb_parrains']}")
+print(tabulate(rows, headers=["Rang", "Entreprise", "Nb parrains"], tablefmt="pretty"))
 
 noms = [(e.get("nom") or e["_id"])[:32] for e in top]
 vals = [e["nb_parrains"] for e in top]

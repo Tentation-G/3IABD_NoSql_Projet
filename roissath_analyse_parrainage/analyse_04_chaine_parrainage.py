@@ -1,4 +1,5 @@
 from neo4j import GraphDatabase
+from tabulate import tabulate
 import os
 
 driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "neo4j_pass"))
@@ -38,10 +39,8 @@ with driver.session() as s:
     """).data()
 
     if stats:
+        rows = [[r['longueur'], r['nb_chaines']] for r in stats]
         print("\nDistribution des longueurs de chaines :")
-        print(f"  {'Longueur':<12} {'Nb chaines'}")
-        print("  " + "-" * 24)
-        for row in stats:
-            print(f"  {row['longueur']:<12} {row['nb_chaines']}")
+        print(tabulate(rows, headers=["Longueur", "Nb chaines"], tablefmt="pretty"))
 
 driver.close()

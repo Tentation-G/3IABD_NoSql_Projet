@@ -2,6 +2,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from pymongo import MongoClient
+from tabulate import tabulate
 from math import radians, sin, cos, sqrt, atan2
 import os
 
@@ -40,7 +41,9 @@ for shop in shops:
         if haversine(slat, slng, float(c["coords"]["lat"]), float(c["coords"]["lng"])) <= RAYON_KM
     )
     results.append({"nom": shop.get("name", shop.get("id", "?")), "nb": nb})
-    print(f"  {shop.get('name', shop.get('id', '?')):<35} -> {nb} abonnes dans {RAYON_KM} km")
+
+rows = [[r['nom'], r['nb']] for r in results]
+print(tabulate(rows, headers=["Magasin", f"Abonnes dans {RAYON_KM} km"], tablefmt="pretty"))
 
 # Graphique
 noms = [r["nom"] for r in results]
