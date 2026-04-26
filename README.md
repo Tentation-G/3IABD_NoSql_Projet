@@ -1,5 +1,10 @@
 # Mamion Miam — NoSQL & Big Data
 
+## Répartition des taches
+Flavien  : Infrastructure, analyse catalogue produits
+Samuel   : Analyse comportement d'achat clients
+Roïssath : Analyse parrainage & entreprises
+
 ## Prérequis
 - Docker Desktop
 - Python 3.10+
@@ -14,7 +19,6 @@ pip install -r requirements.txt
 ```
 
 ## Charger les données
-Placer les fichiers JSON dans `data/` puis :
 ```bash
 python import_mongo.py
 ```
