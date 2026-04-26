@@ -28,7 +28,15 @@ python import_mongo.py
 python analyse_01_top_categories_produits.py
 python analyse_02_top_rayons_categories.py
 python analyse_03_top_rayons_produits.py
-python analyse_04_categories_lignes_vente.py
-python analyse_05_categories_quantite_vendue.py
+python analyse_05_categories_lignes_vente.py
+python analyse_06_categories_quantite_vendue.py
 ```
 Les graphiques sont exportés dans `flavien_analyse_produit/_out`.
+
+```bash
+python analyse_04
+python analyse_07
+python analyse_08
+python analyse_09
+python analyse_10
+```
