@@ -40,3 +40,17 @@ python analyse_08
 python analyse_09
 python analyse_10
 ```
+
+```bash
+cd roissath_analyse_parrainage
+python analyse_01_top_parrains_filleuls.py
+python analyse_02_repartition_hf.py
+python analyse_03_tranches_age.py
+python analyse_04_chaine_parrainage.py
+python analyse_05_employes_carte.py
+python analyse_06_domaines_activite.py
+python analyse_07_top_entreprises_parrains.py
+python analyse_08_abonnes_rayon.py
+```
+Les graphiques sont exportés dans `roissath_analyse_parrainage/_out`.
+
