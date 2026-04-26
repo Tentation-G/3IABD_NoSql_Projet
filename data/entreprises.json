@@ -1,0 +1,1028 @@
+[
+    {
+        "nom": "NORDSCAPE",
+        "siret": "79077360000024",
+        "coords": {
+            "lat": 48.8154,
+            "lng": 2.21761
+        },
+        "codepostal": "92310",
+        "commune_insee": "92072",
+        "ville": "Sèvres",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "A",
+        "domain_label": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux",
+        "rome_code": "A1211",
+        "rome_label": "Chef / Cheffe d'équipe paysagiste",
+        "naf_code": "8130Z",
+        "naf_label": "Services d'aménagement paysager"
+    },
+    {
+        "nom": "JCDECAUX FRANCE",
+        "siret": "62204450100139",
+        "coords": {
+            "lat": 48.8883,
+            "lng": 2.26057
+        },
+        "codepostal": "92200",
+        "commune_insee": "92051",
+        "ville": "Neuilly-sur-Seine",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "C",
+        "domain_label": "Banque, Assurance, Immobilier",
+        "rome_code": "C1504",
+        "rome_label": "Conseiller / Conseillère immobilier",
+        "naf_code": "7312Z",
+        "naf_label": "Régie publicitaire de médias"
+    },
+    {
+        "nom": "AFA CONTROLE",
+        "siret": "93306244000013",
+        "coords": {
+            "lat": 48.894,
+            "lng": 2.30048
+        },
+        "codepostal": "92300",
+        "commune_insee": "92044",
+        "ville": "Levallois-Perret",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "C",
+        "domain_label": "Banque, Assurance, Immobilier",
+        "rome_code": "C1502",
+        "rome_label": "Chargé / Chargée de gestion locative en immobilier",
+        "naf_code": "7120B",
+        "naf_label": "Analyses, essais et inspections techniques"
+    },
+    {
+        "nom": "SAVENCIA PRODUITS LAITIERS FRANCE",
+        "siret": "39453070300088",
+        "coords": {
+            "lat": 48.8071,
+            "lng": 2.16463
+        },
+        "codepostal": "78220",
+        "commune_insee": "78686",
+        "ville": "Viroflay",
+        "departement_code": "78",
+        "departement_label": "Yvelines",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1106",
+        "rome_label": "Vendeur / Vendeuse en épicerie",
+        "naf_code": "7311Z",
+        "naf_label": "Activités des agences de publicité"
+    },
+    {
+        "nom": "COMPETENCES ET DEVELOPPEMENT",
+        "siret": "44386139800065",
+        "coords": {
+            "lat": 48.893,
+            "lng": 2.25861
+        },
+        "codepostal": "92400",
+        "commune_insee": "92026",
+        "ville": "Courbevoie",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1401",
+        "rome_label": "Assistant commercial / Assistante commerciale",
+        "naf_code": "8559A",
+        "naf_label": "Formation continue d'adultes"
+    },
+    {
+        "nom": "HUPSO",
+        "siret": "82189572900019",
+        "coords": {
+            "lat": 48.8441,
+            "lng": 2.21038
+        },
+        "codepostal": "92210",
+        "commune_insee": "92064",
+        "ville": "Saint-Cloud",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1401",
+        "rome_label": "Assistant commercial / Assistante commerciale",
+        "naf_code": "8559A",
+        "naf_label": "Formation continue d'adultes"
+    },
+    {
+        "nom": "INTERMARCHE",
+        "siret": "34525265400016",
+        "coords": {
+            "lat": 48.7907,
+            "lng": 2.28878
+        },
+        "codepostal": "92260",
+        "commune_insee": "92032",
+        "ville": "Fontenay-aux-Roses",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1101",
+        "rome_label": "Boucher / Bouchère",
+        "naf_code": "4711D",
+        "naf_label": "Supermarchés"
+    },
+    {
+        "nom": "BIGEM",
+        "siret": "51488696900013",
+        "coords": {
+            "lat": 48.7993,
+            "lng": 2.28136
+        },
+        "codepostal": "92320",
+        "commune_insee": "92020",
+        "ville": "Châtillon",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1101",
+        "rome_label": "Boucher / Bouchère",
+        "naf_code": "4711D",
+        "naf_label": "Supermarchés"
+    },
+    {
+        "nom": "BASILIC & CO",
+        "siret": "91374879400025",
+        "coords": {
+            "lat": 48.7672,
+            "lng": 2.27678
+        },
+        "codepostal": "92290",
+        "commune_insee": "92019",
+        "ville": "Châtenay-Malabry",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1106",
+        "rome_label": "Vendeur / Vendeuse en épicerie",
+        "naf_code": "5610C",
+        "naf_label": "Restauration de type rapide"
+    },
+    {
+        "nom": "5 MONDES",
+        "siret": "95274562800026",
+        "coords": {
+            "lat": 48.9164,
+            "lng": 2.27693
+        },
+        "codepostal": "92270",
+        "commune_insee": "92009",
+        "ville": "Bois-Colombes",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1101",
+        "rome_label": "Boucher / Bouchère",
+        "naf_code": "4711D",
+        "naf_label": "Supermarchés"
+    },
+    {
+        "nom": "CARREFOUR MARKET",
+        "siret": "44028375201422",
+        "coords": {
+            "lat": 48.8235,
+            "lng": 2.2824
+        },
+        "codepostal": "92170",
+        "commune_insee": "92075",
+        "ville": "Vanves",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1101",
+        "rome_label": "Boucher / Bouchère",
+        "naf_code": "4711D",
+        "naf_label": "Supermarchés"
+    },
+    {
+        "nom": "ECOLE PRIMAIRE PRIVEE NELLE D'ANTONY",
+        "siret": "78527207100016",
+        "coords": {
+            "lat": 48.7704,
+            "lng": 2.30935
+        },
+        "codepostal": "92160",
+        "commune_insee": "92002",
+        "ville": "Antony",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1214",
+        "rome_label": "Vendeur / Vendeuse en prêt-à-porter",
+        "naf_code": "8520Z",
+        "naf_label": "Enseignement primaire"
+    },
+    {
+        "nom": "SONY EUROPE B.V.",
+        "siret": "84476038900024",
+        "coords": {
+            "lat": 48.8834,
+            "lng": 2.24862
+        },
+        "codepostal": "92800",
+        "commune_insee": "92062",
+        "ville": "Puteaux",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1409",
+        "rome_label": "Assistant / Assistante administration des ventes",
+        "naf_code": "4643Z",
+        "naf_label": "Commerce de gros (commerce interentreprises) d'appareils électroménagers"
+    },
+    {
+        "nom": "GIFI",
+        "siret": "47872562505732",
+        "coords": {
+            "lat": 48.9013,
+            "lng": 2.21578
+        },
+        "codepostal": "92000",
+        "commune_insee": "92050",
+        "ville": "Nanterre",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1212",
+        "rome_label": "Vendeur / Vendeuse en équipement de la maison",
+        "naf_code": "4719B",
+        "naf_label": "Autres commerces de détail en magasin non spécialisé"
+    },
+    {
+        "nom": "AUCHAN SUPERMARCHE",
+        "siret": "41040901500550",
+        "coords": {
+            "lat": 48.8136,
+            "lng": 2.32566
+        },
+        "codepostal": "92120",
+        "commune_insee": "92049",
+        "ville": "Montrouge",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "D",
+        "domain_label": "Commerce, Vente et Grande distribution",
+        "rome_code": "D1101",
+        "rome_label": "Boucher / Bouchère",
+        "naf_code": "4711D",
+        "naf_label": "Supermarchés"
+    },
+    {
+        "nom": "WEYOU GROUP",
+        "siret": "48907075500058",
+        "coords": {
+            "lat": 48.8665,
+            "lng": 2.22458
+        },
+        "codepostal": "92150",
+        "commune_insee": "92073",
+        "ville": "Suresnes",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "E",
+        "domain_label": "Communication, Média et Multimédia",
+        "rome_code": "E1103",
+        "rome_label": "Chargé / Chargée des relations publiques",
+        "naf_code": "8230Z",
+        "naf_label": "Organisation de foires, salons professionnels et congrès"
+    },
+    {
+        "nom": "COULEURS VOCALES",
+        "siret": "50420315900026",
+        "coords": {
+            "lat": 48.8101,
+            "lng": 2.23957
+        },
+        "codepostal": "92190",
+        "commune_insee": "92048",
+        "ville": "Meudon",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "E",
+        "domain_label": "Communication, Média et Multimédia",
+        "rome_code": "E1112",
+        "rome_label": "Chargé / Chargée de communication",
+        "naf_code": "9001Z",
+        "naf_label": "Arts du spectacle vivant"
+    },
+    {
+        "nom": "MERSEN FRANCE GENNEVILLIERS SAS",
+        "siret": "43380646000021",
+        "coords": {
+            "lat": 48.9283,
+            "lng": 2.29508
+        },
+        "codepostal": "92230",
+        "commune_insee": "92036",
+        "ville": "Gennevilliers",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1302",
+        "rome_label": "Conducteur / Conductrice d'engins de chantier",
+        "naf_code": "2399Z",
+        "naf_label": "Fabrication d'autres produits minéraux non métalliques n.c.a."
+    },
+    {
+        "nom": "KEYYO",
+        "siret": "39008115600213",
+        "coords": {
+            "lat": 48.8984,
+            "lng": 2.31228
+        },
+        "codepostal": "92110",
+        "commune_insee": "92024",
+        "ville": "Clichy",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1605",
+        "rome_label": "Monteur / Monteuse de réseaux électriques",
+        "naf_code": "6110Z",
+        "naf_label": "Télécommunications filaires"
+    },
+    {
+        "nom": "SIDEXIA",
+        "siret": "81055792600054",
+        "coords": {
+            "lat": 48.8344,
+            "lng": 2.23281
+        },
+        "codepostal": "92100",
+        "commune_insee": "92012",
+        "ville": "Boulogne-Billancourt",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1103",
+        "rome_label": "Diagnostiqueur / Diagnostiqueuse immobilier",
+        "naf_code": "7112B",
+        "naf_label": "Ingénierie, études techniques"
+    },
+    {
+        "nom": "SINA DECORE",
+        "siret": "81246296800015",
+        "coords": {
+            "lat": 48.9246,
+            "lng": 2.29117
+        },
+        "codepostal": "92230",
+        "commune_insee": "92036",
+        "ville": "Gennevilliers",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1609",
+        "rome_label": "Solier / Solière",
+        "naf_code": "4334Z",
+        "naf_label": "Travaux de peinture et vitrerie"
+    },
+    {
+        "nom": "SOC ANTONA ET COFI",
+        "siret": "55209089600044",
+        "coords": {
+            "lat": 48.8414,
+            "lng": 2.17745
+        },
+        "codepostal": "92380",
+        "commune_insee": "92033",
+        "ville": "Garches",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1603",
+        "rome_label": "Plombier / Plombière sanitaire",
+        "naf_code": "4322B",
+        "naf_label": "Travaux d'installation d'équipements thermiques et de climatisation"
+    },
+    {
+        "nom": "DU SOL AU PLAFOND",
+        "siret": "40801452000048",
+        "coords": {
+            "lat": 48.942,
+            "lng": 2.33296
+        },
+        "codepostal": "92390",
+        "commune_insee": "92078",
+        "ville": "Villeneuve-la-Garenne",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1609",
+        "rome_label": "Solier / Solière",
+        "naf_code": "4334Z",
+        "naf_label": "Travaux de peinture et vitrerie"
+    },
+    {
+        "nom": "C.J.M.ENTREPRISE GENERALE",
+        "siret": "42921675700022",
+        "coords": {
+            "lat": 48.896,
+            "lng": 2.25541
+        },
+        "codepostal": "92400",
+        "commune_insee": "92026",
+        "ville": "Courbevoie",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1301",
+        "rome_label": "Grutier / Grutière",
+        "naf_code": "4399C",
+        "naf_label": "Travaux de maçonnerie générale et gros œuvre de bâtiment"
+    },
+    {
+        "nom": "C L V",
+        "siret": "42038595700030",
+        "coords": {
+            "lat": 48.7738,
+            "lng": 2.31328
+        },
+        "codepostal": "92340",
+        "commune_insee": "92014",
+        "ville": "Bourg-la-Reine",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "F",
+        "domain_label": "Construction, Bâtiment et Travaux publics",
+        "rome_code": "F1613",
+        "rome_label": "Etancheur / Etancheuse",
+        "naf_code": "4391B",
+        "naf_label": "Travaux de couverture par éléments"
+    },
+    {
+        "nom": "ARCADE NETTOYAGE",
+        "siret": "57200218600094",
+        "coords": {
+            "lat": 48.8847,
+            "lng": 2.24738
+        },
+        "codepostal": "92800",
+        "commune_insee": "92062",
+        "ville": "Puteaux",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "G",
+        "domain_label": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "rome_code": "G1501",
+        "rome_label": "Employé / Employée d'étage",
+        "naf_code": "8121Z",
+        "naf_label": "Nettoyage courant des bâtiments"
+    },
+    {
+        "nom": "VILLA D'EPIDAURE",
+        "siret": "52926406100092",
+        "coords": {
+            "lat": 48.8452,
+            "lng": 2.1971
+        },
+        "codepostal": "92380",
+        "commune_insee": "92033",
+        "ville": "Garches",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "G",
+        "domain_label": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "rome_code": "G1606",
+        "rome_label": "Cuisinier / Cuisinière de collectivité",
+        "naf_code": "8710A",
+        "naf_label": "Hébergement médicalisé pour personnes âgées"
+    },
+    {
+        "nom": "TRIPLETTA",
+        "siret": "90281586900026",
+        "coords": {
+            "lat": 48.816,
+            "lng": 2.31793
+        },
+        "codepostal": "92120",
+        "commune_insee": "92049",
+        "ville": "Montrouge",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "G",
+        "domain_label": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation",
+        "rome_code": "G1801",
+        "rome_label": "Barman / Barmaid",
+        "naf_code": "5610A",
+        "naf_label": "Restauration traditionnelle"
+    },
+    {
+        "nom": "WITHINGS",
+        "siret": "50478756500036",
+        "coords": {
+            "lat": 48.8276,
+            "lng": 2.28364
+        },
+        "codepostal": "92130",
+        "commune_insee": "92040",
+        "ville": "Issy-les-Moulineaux",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "H",
+        "domain_label": "Industrie",
+        "rome_code": "H1504",
+        "rome_label": "Contrôleur / Contrôleuse technique en électricité-électronique",
+        "naf_code": "2651B",
+        "naf_label": "Fabrication d'instrumentation scientifique et technique"
+    },
+    {
+        "nom": "LABORATOIRES LEO",
+        "siret": "57220812200075",
+        "coords": {
+            "lat": 48.8936,
+            "lng": 2.24387
+        },
+        "codepostal": "92400",
+        "commune_insee": "92026",
+        "ville": "Courbevoie",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "H",
+        "domain_label": "Industrie",
+        "rome_code": "H1502",
+        "rome_label": "Responsable qualité en industrie",
+        "naf_code": "2120Z",
+        "naf_label": "Fabrication de préparations pharmaceutiques"
+    },
+    {
+        "nom": "MEDECINE URGENCE",
+        "siret": "31213919900011",
+        "coords": {
+            "lat": 48.8384,
+            "lng": 2.17073
+        },
+        "codepostal": "92380",
+        "commune_insee": "92033",
+        "ville": "Garches",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "H",
+        "domain_label": "Industrie",
+        "rome_code": "H1303",
+        "rome_label": "Technicien / Technicienne en Hygiène, Sécurité, Environnement industriel (HSE)",
+        "naf_code": "8621Z",
+        "naf_label": "Activité des médecins généralistes"
+    },
+    {
+        "nom": "ASS PEPINIERE SERVICES",
+        "siret": "39878119500035",
+        "coords": {
+            "lat": 48.8214,
+            "lng": 2.20215
+        },
+        "codepostal": "92310",
+        "commune_insee": "92072",
+        "ville": "Sèvres",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "I",
+        "domain_label": "Installation et Maintenance",
+        "rome_code": "I1203",
+        "rome_label": "Agent / Agente d'entretien du bâtiment",
+        "naf_code": "8790B",
+        "naf_label": "Hébergement social pour adultes et familles en difficultés et autre hébergement social"
+    },
+    {
+        "nom": "ALOEST IMAGE",
+        "siret": "98518250000019",
+        "coords": {
+            "lat": 48.9147,
+            "lng": 2.26162
+        },
+        "codepostal": "92700",
+        "commune_insee": "92025",
+        "ville": "Colombes",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "I",
+        "domain_label": "Installation et Maintenance",
+        "rome_code": "I1329",
+        "rome_label": "Technicien / Technicienne de maintenance en audio-vidéo professionnelle",
+        "naf_code": "5911B",
+        "naf_label": "Production de films institutionnels et publicitaires"
+    },
+    {
+        "nom": "COLLEGE HUBERT GERMAIN",
+        "siret": "19920884400019",
+        "coords": {
+            "lat": 48.8749,
+            "lng": 2.22801
+        },
+        "codepostal": "92150",
+        "commune_insee": "92073",
+        "ville": "Suresnes",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "I",
+        "domain_label": "Installation et Maintenance",
+        "rome_code": "I1203",
+        "rome_label": "Agent / Agente d'entretien du bâtiment",
+        "naf_code": "8531Z",
+        "naf_label": "Enseignement secondaire général"
+    },
+    {
+        "nom": "IDZ PROD",
+        "siret": "51149003900043",
+        "coords": {
+            "lat": 48.8931,
+            "lng": 2.27698
+        },
+        "codepostal": "92300",
+        "commune_insee": "92044",
+        "ville": "Levallois-Perret",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "I",
+        "domain_label": "Installation et Maintenance",
+        "rome_code": "I1329",
+        "rome_label": "Technicien / Technicienne de maintenance en audio-vidéo professionnelle",
+        "naf_code": "5911B",
+        "naf_label": "Production de films institutionnels et publicitaires"
+    },
+    {
+        "nom": "FONDATION PAUL PARQUET",
+        "siret": "78542380700011",
+        "coords": {
+            "lat": 48.8935,
+            "lng": 2.26285
+        },
+        "codepostal": "92200",
+        "commune_insee": "92051",
+        "ville": "Neuilly-sur-Seine",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1404",
+        "rome_label": "Kinésithérapeute",
+        "naf_code": "8610Z",
+        "naf_label": "Activités hospitalières"
+    },
+    {
+        "nom": "ASSOCIATI AMIS PARENTS ENFANTS INADAPTES",
+        "siret": "31902659700066",
+        "coords": {
+            "lat": 48.7902,
+            "lng": 2.22829
+        },
+        "codepostal": "92190",
+        "commune_insee": "92048",
+        "ville": "Meudon",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1301",
+        "rome_label": "Agent / Agente de service hospitalier (ASH)",
+        "naf_code": "8720A",
+        "naf_label": "Hébergement social pour handicapés mentaux et malades mentaux"
+    },
+    {
+        "nom": "FONDATION PERCE NEIGE",
+        "siret": "78504100500410",
+        "coords": {
+            "lat": 48.7454,
+            "lng": 2.31047
+        },
+        "codepostal": "92160",
+        "commune_insee": "92002",
+        "ville": "Antony",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1502",
+        "rome_label": "Cadre de santé d'unité de soins ou de service paramédical",
+        "naf_code": "8710C",
+        "naf_label": "Hébergement médicalisé pour adultes handicapés et autre hébergement médicalisé"
+    },
+    {
+        "nom": "FONDATION DES AMIS DE L'ATELIER",
+        "siret": "53034274000152",
+        "coords": {
+            "lat": 48.776,
+            "lng": 2.27309
+        },
+        "codepostal": "92290",
+        "commune_insee": "92019",
+        "ville": "Châtenay-Malabry",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1301",
+        "rome_label": "Agent / Agente de service hospitalier (ASH)",
+        "naf_code": "8720A",
+        "naf_label": "Hébergement social pour handicapés mentaux et malades mentaux"
+    },
+    {
+        "nom": "SSIAD DES HAUTS DE SEINE CRF",
+        "siret": "77567227231715",
+        "coords": {
+            "lat": 48.7477,
+            "lng": 2.30347
+        },
+        "codepostal": "92160",
+        "commune_insee": "92002",
+        "ville": "Antony",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1510",
+        "rome_label": "Infirmier coordinateur / Infirmière coordinatrice (IDEC)",
+        "naf_code": "8690D",
+        "naf_label": "Activités des infirmiers et des sages-femmes"
+    },
+    {
+        "nom": "LES PAPILLONS BLANCS DE LA COLLINE",
+        "siret": "77572987400245",
+        "coords": {
+            "lat": 48.8279,
+            "lng": 2.17804
+        },
+        "codepostal": "92410",
+        "commune_insee": "92077",
+        "ville": "Ville-d'Avray",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1301",
+        "rome_label": "Agent / Agente de service hospitalier (ASH)",
+        "naf_code": "8720A",
+        "naf_label": "Hébergement social pour handicapés mentaux et malades mentaux"
+    },
+    {
+        "nom": "LES EPINETTES",
+        "siret": "47918275000782",
+        "coords": {
+            "lat": 48.8169,
+            "lng": 2.25916
+        },
+        "codepostal": "92130",
+        "commune_insee": "92040",
+        "ville": "Issy-les-Moulineaux",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1507",
+        "rome_label": "Puériculteur / Puéricultrice",
+        "naf_code": "8891A",
+        "naf_label": "Accueil de jeunes enfants"
+    },
+    {
+        "nom": "HALTE-GARDERIE LES LUTINS DE LA PLAINE",
+        "siret": "78481011100046",
+        "coords": {
+            "lat": 48.828,
+            "lng": 2.27232
+        },
+        "codepostal": "75015",
+        "commune_insee": "75115",
+        "ville": "Paris",
+        "departement_code": "75",
+        "departement_label": "Paris",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1507",
+        "rome_label": "Puériculteur / Puéricultrice",
+        "naf_code": "8891A",
+        "naf_label": "Accueil de jeunes enfants"
+    },
+    {
+        "nom": "A.D.F.",
+        "siret": "80225214800019",
+        "coords": {
+            "lat": 48.9021,
+            "lng": 2.2433
+        },
+        "codepostal": "92400",
+        "commune_insee": "92026",
+        "ville": "Courbevoie",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "J",
+        "domain_label": "Santé",
+        "rome_code": "J1103",
+        "rome_label": "Dentiste",
+        "naf_code": "8623Z",
+        "naf_label": "Pratique dentaire"
+    },
+    {
+        "nom": "ETS REG ENSEIGNEMENT ADAPTE JEAN MONNET",
+        "siret": "19920810900017",
+        "coords": {
+            "lat": 48.8378,
+            "lng": 2.16724
+        },
+        "codepostal": "92380",
+        "commune_insee": "92033",
+        "ville": "Garches",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "K",
+        "domain_label": "Services à la personne et à la collectivité",
+        "rome_code": "K2104",
+        "rome_label": "Surveillant / Surveillante en milieu scolaire",
+        "naf_code": "8532Z",
+        "naf_label": "Enseignement secondaire technique ou professionnel"
+    },
+    {
+        "nom": "ACTIONS DROITS & ASSOCIES",
+        "siret": "91800260100014",
+        "coords": {
+            "lat": 48.9267,
+            "lng": 2.29354
+        },
+        "codepostal": "92230",
+        "commune_insee": "92036",
+        "ville": "Gennevilliers",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "K",
+        "domain_label": "Services à la personne et à la collectivité",
+        "rome_code": "K1902",
+        "rome_label": "Clerc de notaire",
+        "naf_code": "6910Z",
+        "naf_label": "Activités juridiques"
+    },
+    {
+        "nom": "AZAE HAUTS DE SEINE",
+        "siret": "50127435100169",
+        "coords": {
+            "lat": 48.9063,
+            "lng": 2.31306
+        },
+        "codepostal": "92110",
+        "commune_insee": "92024",
+        "ville": "Clichy",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "K",
+        "domain_label": "Services à la personne et à la collectivité",
+        "rome_code": "K1302",
+        "rome_label": "Assistant / Assistante de vie dépendance",
+        "naf_code": "9609Z",
+        "naf_label": "Autres services personnels n.c.a."
+    },
+    {
+        "nom": "AFORP FORMATION",
+        "siret": "77572845400247",
+        "coords": {
+            "lat": 48.7861,
+            "lng": 2.3276
+        },
+        "codepostal": "94230",
+        "commune_insee": "94016",
+        "ville": "Cachan",
+        "departement_code": "94",
+        "departement_label": "Val-de-Marne",
+        "domain_code": "K",
+        "domain_label": "Services à la personne et à la collectivité",
+        "rome_code": "K2105",
+        "rome_label": "Professeur / Professeure de musique",
+        "naf_code": "8559B",
+        "naf_label": "Autres enseignements"
+    },
+    {
+        "nom": "APEF GARCHES",
+        "siret": "79896441700017",
+        "coords": {
+            "lat": 48.8432,
+            "lng": 2.18448
+        },
+        "codepostal": "92380",
+        "commune_insee": "92033",
+        "ville": "Garches",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "K",
+        "domain_label": "Services à la personne et à la collectivité",
+        "rome_code": "K1302",
+        "rome_label": "Assistant / Assistante de vie dépendance",
+        "naf_code": "8810A",
+        "naf_label": "Aide à domicile"
+    },
+    {
+        "nom": "PLESSIS ROBINSON VOLLEY BALL",
+        "siret": "38023726300047",
+        "coords": {
+            "lat": 48.7751,
+            "lng": 2.25344
+        },
+        "codepostal": "92350",
+        "commune_insee": "92060",
+        "ville": "Le Plessis-Robinson",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "L",
+        "domain_label": "Spectacle",
+        "rome_code": "L1401",
+        "rome_label": "Sportif professionnel / Sportive professionnelle",
+        "naf_code": "9312Z",
+        "naf_label": "Activités de clubs de sports"
+    },
+    {
+        "nom": "SOCRATE PRODUCTIONS",
+        "siret": "89862065300011",
+        "coords": {
+            "lat": 48.793,
+            "lng": 2.25514
+        },
+        "codepostal": "92140",
+        "commune_insee": "92023",
+        "ville": "Clamart",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "L",
+        "domain_label": "Spectacle",
+        "rome_code": "L1306",
+        "rome_label": "Réalisateur / Réalisatrice audiovisuel",
+        "naf_code": "5911A",
+        "naf_label": "Production de films et de programmes pour la télévision"
+    },
+    {
+        "nom": "ASR",
+        "siret": "94104005700023",
+        "coords": {
+            "lat": 48.9073,
+            "lng": 2.29996
+        },
+        "codepostal": "92110",
+        "commune_insee": "92024",
+        "ville": "Clichy",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "M",
+        "domain_label": "Support à l'entreprise",
+        "rome_code": "M1607",
+        "rome_label": "Secrétaire",
+        "naf_code": "4520A",
+        "naf_label": "Entretien et réparation de véhicules automobiles légers"
+    },
+    {
+        "nom": "GARAGE M.S.D IMPORT EXPORT",
+        "siret": "93161391300017",
+        "coords": {
+            "lat": 48.9181,
+            "lng": 2.26431
+        },
+        "codepostal": "92270",
+        "commune_insee": "92009",
+        "ville": "Bois-Colombes",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "M",
+        "domain_label": "Support à l'entreprise",
+        "rome_code": "M1607",
+        "rome_label": "Secrétaire",
+        "naf_code": "4520A",
+        "naf_label": "Entretien et réparation de véhicules automobiles légers"
+    },
+    {
+        "nom": "CARGLASS",
+        "siret": "42505055602377",
+        "coords": {
+            "lat": 48.9017,
+            "lng": 2.23938
+        },
+        "codepostal": "92400",
+        "commune_insee": "92026",
+        "ville": "Courbevoie",
+        "departement_code": "92",
+        "departement_label": "Hauts-de-Seine",
+        "domain_code": "M",
+        "domain_label": "Support à l'entreprise",
+        "rome_code": "M1607",
+        "rome_label": "Secrétaire",
+        "naf_code": "4520A",
+        "naf_label": "Entretien et réparation de véhicules automobiles légers"
+    }
+]

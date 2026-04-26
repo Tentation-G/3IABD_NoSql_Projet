@@ -1,0 +1,30 @@
+[
+    {
+        "id": "aige8yfgvq",
+        "name": "Mamion Miam",
+        "lat": 48.91104,
+        "lng": 2.25454,
+        "adresse": "46 Avenue du Général de Gaulle, 92250, La Garenne-Colombes"
+    },
+    {
+        "id": "tfz2zpdffp",
+        "name": "Mamion Miam, Rueil",
+        "lat": 48.87488,
+        "lng": 2.17804,
+        "adresse": "7 Rue du Marquis de Coriolis, 92500, Rueil-Malmaison"
+    },
+    {
+        "id": "d5dquuizml",
+        "name": "Mamion Miam, Chaville",
+        "lat": 48.80788,
+        "lng": 2.18794,
+        "adresse": "5 Rue Anatole France, 92370, Chaville"
+    },
+    {
+        "id": "1fto4ad3n7",
+        "name": "Mamion Miam, Bagneux",
+        "lat": 48.79928,
+        "lng": 2.30258,
+        "adresse": "18 Avenue de Garlande, 92220, Bagneux"
+    }
+]
